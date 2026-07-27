@@ -2,18 +2,18 @@
   "badge": "DLW-THE_FOUNDATION_WELL",
   "name": "THE FOUNDATION WELL",
   "universe": "FOUNDATION",
-  "moniker": "⟦THE FOUNDATION WELL:the-foundation-well:0db6a8⟧",
+  "moniker": "⟦THE FOUNDATION WELL:the-foundation-well:3b855e⟧",
   "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
-  "seal_sha256": "0db6a8080948738adf2566395e91fd781b1eef21cbec6aa79f2ddb6deafb396b",
+  "seal_sha256": "3b855ec3c98931e4d6b0cfe3adbc69bd431bc6d153c46c9d6565d459d559ab6c",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
   "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 1507,
-    "prev": "a783a9d3de7fa23eba1e7046a325c3e3e6727d2e0ab538151cefe8cab13faea2",
-    "link": "42fbee0df2dbd7ce5fef581dc7d61357e8d1b11db33a426cf50b767bf9020bb1",
-    "head": "117960589ab3434a71703add09b59af6906b1cf738b4485fa23e9f29718a6458",
+    "prev": "1d5cbf2665b279fbc150779dc0e33096e4bfdedd45572ffe39eafb817e521e7a",
+    "link": "19ecb9a0eb582087cbca8ab8653b8c250b0fafac65603148a40b222e01e57c71",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
